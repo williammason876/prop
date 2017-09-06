@@ -1,0 +1,87 @@
+.menu_bar{
+	background-color: #CCCCCC;
+}
+.menu_button1{
+		background-color:transparent;
+		border-color:transparent;
+		
+}
+.menu_button1:hover{
+		background-color:#bdc3c7 ;
+		border-color:black;
+		
+}
+.menu_button{
+		background-color:transparent;
+		border-color:transparent;
+		float:right;
+		
+}
+.menu_button:hover{
+		background-color:#bdc3c7;
+		border-color:black;
+		float:right;
+}
+
+body{
+	background-image:url("http://cdn.home-designing.com/wp-content/uploads/2016/04/luxury-apartment-decor-inspiration.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+	
+}
+img{
+	float:right;
+}
+
+.galleryframe{
+		margin-top:5%;
+		margin-left:20%;
+		margin-right:20%;
+		background-color:
+		;
+		width:600px;
+		height:400px;	
+		background-image: url("cap.jpg");
+		background-repeat:no-repeat;
+		background-size:100%;
+}
+
+.lbutton{
+	float:left;
+	height:100%;
+	background-color:transparent;
+	border-color:transparent;
+	color:white;
+}
+.rbutton{
+	float:right;
+	height:100%;
+	background-color:transparent;
+	border-color:transparent;
+	color:white;
+}
+.lbutton:hover{
+	border-color:#CCCCCC;
+	background-color:#bdc3c7;
+	opacity:0.3;
+}
+.rbutton:hover{
+	border-color:#CCCCCC;
+	background-color:#bdc3c7;
+	opacity:0.3;
+}
+.aside1{
+	background-color: #CCCCCC;
+	color: black;
+	font-weight:bold;
+	opacity:0.7;
+	height: 200px;
+	margin-right:75%;
+}
+.article1{
+	margin-left:25%;
+	margin-right:25%;
+	background-color: #CCCCCC;
+	color: black;
+	opacity:0.7;
+}
